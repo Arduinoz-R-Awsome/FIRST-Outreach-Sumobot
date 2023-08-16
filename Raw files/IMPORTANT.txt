@@ -1,1 +1,4 @@
+****All files are not perfected (v1.2).****
 
+If you are planning to make your own sumo bot, you must laser-cut the provided SVGs. 
+Where parts Left and Right connect to the chassis, the connection is a little tight. I.E. you need to sand them down a little bit.
