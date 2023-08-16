@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 793.7007874015749 1122.5196850393702"
+   width="793.7007874015749"
+   height="1122.5196850393702"
+   version="1.1"
+   id="svg10732"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <desc
+     id="desc10588">Chasis and Walls - FrontRight.dxf - scale = 1.000000, origin = (0.000000, 0.000000), method = manual</desc>
+  <defs
+     id="defs10602">
+    <marker
+       id="DistanceX"
+       orient="auto"
+       refX="0.0"
+       refY="0.0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 L -3,3 M 0,-5 L  0,5"
+         style="stroke:#000000; stroke-width:0.5"
+         id="path10590" />
+    </marker>
+    <pattern
+       id="Hatch"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       height="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path10593" />
+      <path
+         d="M6 2 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path10595" />
+      <path
+         d="M4 0 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path10597" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE" />
+    <symbol
+       id="*PAPER_SPACE" />
+  </defs>
+  <g
+     id="g10604" />
+  <g
+     id="g10606" />
+  <g
+     id="g10608" />
+  <g
+     id="g10610" />
+  <g
+     id="g10612" />
+  <g
+     id="g10614" />
+  <g
+     id="g10616" />
+  <g
+     id="g10618" />
+  <g
+     id="g10620" />
+  <g
+     id="g10622" />
+  <g
+     id="g10624" />
+  <g
+     id="g10626" />
+  <g
+     id="g10628" />
+  <g
+     id="g10630" />
+  <g
+     id="g10632" />
+  <g
+     id="g10634" />
+  <g
+     id="g10636" />
+  <g
+     id="g10638" />
+  <g
+     id="g10640" />
+  <g
+     id="g10642" />
+  <g
+     id="g10644" />
+  <g
+     id="g10646" />
+  <g
+     id="g10648" />
+  <g
+     id="g10650" />
+  <g
+     id="g10652" />
+  <g
+     id="g10654" />
+  <g
+     id="g10656" />
+  <g
+     id="g10658" />
+  <g
+     id="g10660" />
+  <g
+     id="g10662" />
+  <g
+     id="g10712">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:9.77509"
+       d="m 188.42177,619.42059 h 14.94905"
+       id="path10664" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:9.77509"
+       d="m 188.42177,619.42059 v 73.8997"
+       id="path10666" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:9.77509"
+       d="m 188.42177,693.32029 h 60.6965"
+       id="path10668" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:9.77509"
+       d="m 249.11827,693.32029 v -16.6177"
+       id="path10670" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:9.77509"
+       d="M 309.81379,676.70259 H 249.11827"
+       id="path10672" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:9.77509"
+       d="m 309.81379,693.32029 v -16.6177"
+       id="path10674" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:9.77509"
+       d="M 309.81379,693.32029 H 370.5095"
+       id="path10676" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:9.77509"
+       d="m 370.5095,693.32029 v -16.6177"
+       id="path10678" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:9.77509"
+       d="M 431.20521,676.70259 H 370.5095"
+       id="path10680" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:9.77509"
+       d="m 431.20521,693.32029 v -16.6177"
+       id="path10682" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:9.77509"
+       d="m 431.20521,693.32029 h 60.69572"
+       id="path10684" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:9.77509"
+       d="m 491.90093,693.32029 v -16.6177"
+       id="path10686" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:9.77509"
+       d="m 552.59683,676.70259 h -60.6959"
+       id="path10688" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:9.77509"
+       d="m 552.59683,693.32029 v -16.6177"
+       id="path10690" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:9.77509"
+       d="m 552.59683,693.32029 h 60.69552"
+       id="path10692" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:9.77509"
+       d="m 613.29235,619.42059 v 73.8997"
+       id="path10694" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:9.77509"
+       d="M 613.29235,619.42059 H 599.19667"
+       id="path10696" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:9.77509"
+       d="m 599.19667,545.52089 v 73.8997"
+       id="path10698" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:9.77509"
+       d="M 613.29235,545.52089 H 599.19667"
+       id="path10700" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:9.77509"
+       d="m 613.29235,471.62109 v 73.8998"
+       id="path10702" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:9.77509"
+       d="M 613.29235,471.62109 H 188.42177"
+       id="path10704" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:9.77509"
+       d="m 188.42177,471.62109 v 73.8998"
+       id="path10706" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:9.77509"
+       d="m 188.42177,545.52089 h 14.94905"
+       id="path10708" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:9.77509"
+       d="m 203.37082,619.42059 v -73.8997"
+       id="path10710" />
+  </g>
+  <g
+     id="g10714" />
+  <g
+     id="g10716" />
+  <g
+     id="g10718" />
+  <g
+     id="g10720" />
+  <g
+     id="g10722" />
+  <g
+     id="g10724" />
+  <g
+     id="g10726" />
+  <g
+     id="g10728" />
+  <g
+     id="g10730" />
+</svg>
